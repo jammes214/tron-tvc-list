@@ -15,7 +15,7 @@ Follow the steps below to add a new token：
       "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
       "existingMarkets": [
           {
-              "source": "Binance",
+              "source": "tronlink",
               "pairs": [
                   "WIN/USDT",
                   "WIN/BUSD",
@@ -30,7 +30,7 @@ Follow the steps below to add a new token：
               ]
           },
           {
-              "source": "KuCoin",
+              "source": "binance",
               "pairs": [
                   "WIN/USDT"
               ]
